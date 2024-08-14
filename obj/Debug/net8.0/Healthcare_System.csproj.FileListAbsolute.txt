@@ -1,0 +1,14 @@
+/Users/gianghoang/Desktop/JRM_dotnet_practice/Healthcare_System/bin/Debug/net8.0/Healthcare_System
+/Users/gianghoang/Desktop/JRM_dotnet_practice/Healthcare_System/bin/Debug/net8.0/Healthcare_System.deps.json
+/Users/gianghoang/Desktop/JRM_dotnet_practice/Healthcare_System/bin/Debug/net8.0/Healthcare_System.runtimeconfig.json
+/Users/gianghoang/Desktop/JRM_dotnet_practice/Healthcare_System/bin/Debug/net8.0/Healthcare_System.dll
+/Users/gianghoang/Desktop/JRM_dotnet_practice/Healthcare_System/bin/Debug/net8.0/Healthcare_System.pdb
+/Users/gianghoang/Desktop/JRM_dotnet_practice/Healthcare_System/obj/Debug/net8.0/Healthcare_System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gianghoang/Desktop/JRM_dotnet_practice/Healthcare_System/obj/Debug/net8.0/Healthcare_System.AssemblyInfoInputs.cache
+/Users/gianghoang/Desktop/JRM_dotnet_practice/Healthcare_System/obj/Debug/net8.0/Healthcare_System.AssemblyInfo.cs
+/Users/gianghoang/Desktop/JRM_dotnet_practice/Healthcare_System/obj/Debug/net8.0/Healthcare_System.csproj.CoreCompileInputs.cache
+/Users/gianghoang/Desktop/JRM_dotnet_practice/Healthcare_System/obj/Debug/net8.0/Healthcare_System.dll
+/Users/gianghoang/Desktop/JRM_dotnet_practice/Healthcare_System/obj/Debug/net8.0/refint/Healthcare_System.dll
+/Users/gianghoang/Desktop/JRM_dotnet_practice/Healthcare_System/obj/Debug/net8.0/Healthcare_System.pdb
+/Users/gianghoang/Desktop/JRM_dotnet_practice/Healthcare_System/obj/Debug/net8.0/Healthcare_System.genruntimeconfig.cache
+/Users/gianghoang/Desktop/JRM_dotnet_practice/Healthcare_System/obj/Debug/net8.0/ref/Healthcare_System.dll
